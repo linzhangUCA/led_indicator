@@ -1,5 +1,4 @@
 # led_indicator
-the program is stopped.
 
 ### `info_system.py` (50%)
 You will polish your Python programming skills in this exercise.
